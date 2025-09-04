@@ -31,18 +31,18 @@ export const projectsData = [
     projectDesc:
       "Developed a management platform with features for service booking, vehicle tracking, customer login, and an integrated mail notification system, ensuring efficient operations and improved user experience.",
     tags: [],
-    code: "",
-    demo: "",
+    code: "https://github.com/guna-dhamothiran/Bike-Services",
+    demo: "https://bike-services.vercel.app/",
     image: code,
   },
   {
     id: 2,
-    projectName: "",
+    projectName: "Personal portfolio",
     projectDesc:
-      "",
+      "Designed and developed a responsive personal portfolio website showcasing projects, skills, and certifications with a clean UI/UX, ensuring easy navigation and professional presentation",
     tags: [],
-    code: "",
-    demo: "",
+    code: "https://github.com/guna-dhamothiran/portfolio-Guna.D",
+    demo: "https://portfolio-guna-d-pdt9-benwlhmir-guna-dhamothirans-projects.vercel.app/",
     image: resume,
   },
   {
