@@ -27,9 +27,9 @@ export const projectsData = [
   
   {
     id: 1,
-    projectName: "",
+    projectName: "Bike Service Management System",
     projectDesc:
-      "",
+      "Developed a management platform with features for service booking, vehicle tracking, customer login, and an integrated mail notification system, ensuring efficient operations and improved user experience.",
     tags: [],
     code: "",
     demo: "",
